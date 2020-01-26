@@ -28,3 +28,7 @@ To enable the work with a much larger data set, one could use AWS (EC2 instances
 Additionally, one could look into alternative classification methods and algorithms e.g. famous XGBoost, LightGBM, CatBoost to achieve even better f1 score
 
 For feature generation, one could look into solutions like FeatureTools for automatic deep synthesis and feature generation
+
+
+# Blog post
+The details of the analysis and results are described in the following blog post: https://medium.com/@khodjaev.sh/understanding-and-predicting-customer-churn-with-pyspark-703a30e6eceb
